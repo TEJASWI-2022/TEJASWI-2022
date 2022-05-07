@@ -5,4 +5,4 @@
 <br>
 
 ## Developed And Managed By
-<img src="https://avatars.githubusercontent.com/ipuppyyt"> 
+<img src="https://avatars.githubusercontent.com/ipuppyyt" height="50" width="50"> 
