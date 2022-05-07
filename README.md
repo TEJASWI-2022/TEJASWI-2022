@@ -2,3 +2,7 @@
 
 <br>
 <img style"pointer-events: none;" src="assets/homepage.jpg">
+<br>
+
+## Developed And Managed By
+<img src"https://avatars.githubusercontent.com/ipuppyyt"> 
