@@ -1,7 +1,7 @@
 # <div align="center"> Official Webpage Of Tejasvi 2022 </div>
 
 <br>
-<img style"pointer-events: none;" src="assets/homepage.jpg">
+<a href="https://tejasvi.live"><img style"pointer-events: none;" src="assets/homepage.jpg"></a>
 <br>
 
 ## Developed And Managed By
