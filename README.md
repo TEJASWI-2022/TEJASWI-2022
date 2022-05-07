@@ -11,5 +11,5 @@
 
 ## Developed And Managed By
 <div align="center">
-<img src="https://cdn.pixabay.com/photo/2015/04/23/17/41/javascript-736400_960_720.png" height="50" width="50"> &nbsp;&nbsp; <img src="https://www.vhv.rs/dpng/d/486-4866189_html-css-logo-png-transparent-png.png" height="50" width="100">
+<img src="https://cdn.pixabay.com/photo/2015/04/23/17/41/javascript-736400_960_720.png" height="50" width="50"> &nbsp;&nbsp; <img src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582747_1280.png" height="50" width="50"> &nbsp;&nbsp; <img src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582748_1280.png" height="50" width="50">
 </div>
