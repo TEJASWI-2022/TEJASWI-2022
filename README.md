@@ -5,4 +5,4 @@
 <br>
 
 ## Developed And Managed By
-<img src="https://avatars.githubusercontent.com/ipuppyyt" height="50" width="50"> <img src="https://avatars.githubusercontent.com/apk-official" height="50" width="50"> 
+<img src="https://avatars.githubusercontent.com/ipuppyyt?&fit=cover&mask=circle" height="50" width="50"> <img src="https://avatars.githubusercontent.com/apk-official?&fit=cover&mask=circle" height="50" width="50"> 
