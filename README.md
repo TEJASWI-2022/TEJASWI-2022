@@ -1,1 +1,1 @@
-# <center>Official Webpage Of Tejasvi 2022</center>
+# <div align="center"> Official Webpage Of Tejasvi 2022 </div>
